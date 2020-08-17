@@ -1,0 +1,6 @@
+@article{ross2020robust,
+  title={Robust Medical Instrument Segmentation Challenge 2019},
+  author={Ross, Tobias and Reinke, Annika and Full, Peter M and Wagner, Martin and Kenngott, Hannes and Apitz, Martin and Hempe, Hellena and Filimon, Diana Mindroc and Scholz, Patrick and Tran, Thuy Nuong and others},
+  journal={arXiv preprint arXiv:2003.10299},
+  year={2020}
+}

@@ -1,0 +1,11 @@
+@article {smart-pooling2020,
+	author = {Escobar, Mar{\'\i}a and Jeanneret, Guillaume and Bravo-S{\'a}nchez, Laura and Castillo, Angela and G{\'o}mez, Catalina and Valderrama, Diego and Roa, Maria F. and Mart{\'\i}nez, Juli{\'a}n and Madrid-Wolff, Jorge and Cepeda, Martha and Guevara-Suarez, Marcela and Sarmiento, Olga L. and Medaglia, Andr{\'e}s L. and Forero-Shelton, Manu and Velasco, Mauricio and Pedraza-Leal, Juan Manuel and Restrepo, Silvia and Arbelaez, Pablo},
+	title = {Smart Pooling: AI-powered COVID-19 testing},
+	elocation-id = {2020.07.13.20152983},
+	year = {2020},
+	doi = {10.1101/2020.07.13.20152983},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2020/07/15/2020.07.13.20152983},
+	eprint = {https://www.medrxiv.org/content/early/2020/07/15/2020.07.13.20152983.full.pdf},
+	journal = {medRxiv}
+}

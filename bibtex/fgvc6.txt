@@ -1,0 +1,6 @@
+@article{BPPA_FGVC6,
+author = "{L. Bravo, A. Pardo, G. Perez and P. Arbelaez}",
+title = "{Finding Four-Leaf Clovers: A Benchmark for Fine-Grained Object Localization}",
+journal = "{The Sixth Workshop on Fine-Grained Visual Categorization (FGVC6), CVPR 2019.}",
+year = {2019},
+}

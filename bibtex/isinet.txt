@@ -1,0 +1,6 @@
+@article{ISINet2020,
+  title={ISINet: An Instance-Based Approach for Surgical Instrument Segmentation},
+  author={Cristina González and Laura Bravo-Sánchez and Pablo Arbelaez},
+  journal={arXiv preprint arXiv:2007.05533},
+  year={2020}
+}
